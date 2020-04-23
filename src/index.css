@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: Georgia;
+  background: linear-gradient(
+    to right,
+    rgb(133, 1, 40) 0%,
+    rgb(99, 11, 110) 100%
+  );
+}
+/* 
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+} */
